@@ -5,7 +5,7 @@
 
 }
 img {
-    width: 200px; 
+    width: 500px; 
     display: inline-block;
     margin: 20px 75px;
     vertical-align: middle;
@@ -16,7 +16,8 @@ img {
     text-align: center;
     display: inline-block;
     vertical-align: middle;
-    font-family: 'Helvetica';  ;  
+    font-family: 'Helvetica';  
+    font-size: 40px;
 }
 body 
 {
